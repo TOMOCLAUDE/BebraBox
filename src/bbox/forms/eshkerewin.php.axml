@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root>
+  <class name="eshkerewin">
+    <method name="doImageConstruct">
+      <openMedia autoplay="1" autoplay-type="flag" id="win" id-type="string" source="res://.data/audio/musica-de-sigma-estourado.mp3" source-type="string"/>
+    </method>
+    
+  <method name="doButtonClickLeft">
+      <hideForm form="eshkerewin" form-type="form"/>
+    </method>
+  </class>
+</root>

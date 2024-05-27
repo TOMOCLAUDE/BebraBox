@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root>
+  <class name="krut">
+    
+  <method name="doButtonClickLeft">
+      <loadForm form="eshkerewin" form-type="form" savePosition="" savePosition-type="" saveSize="" saveSize-type=""/>
+    </method>
+  </class>
+</root>

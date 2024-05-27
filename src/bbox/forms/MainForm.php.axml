@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root>
+  <class name="MainForm">
+    <method name="doImageClickLeft">
+      <openMedia autoplay="1" autoplay-type="flag" id="general" id-type="string" source="res://.data/audio/paskhalko-1488-dzhoker.mp3" source-type="string"/>
+    <showForm form="eshkere" form-type="form"/>
+    </method>
+  <method name="doImageAltClickLeft">
+      <showForm form="vaultbrowser" form-type="form"/>
+    </method>
+  <method name="doImageAltConstruct">
+      <fullScreenEnable/>
+    </method>
+  </class>
+</root>
